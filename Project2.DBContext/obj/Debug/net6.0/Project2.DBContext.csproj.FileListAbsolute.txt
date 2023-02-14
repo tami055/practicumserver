@@ -1,0 +1,17 @@
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\bin\Debug\net6.0\Project2.DBContext.deps.json
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\bin\Debug\net6.0\Project2.DBContext.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\bin\Debug\net6.0\Project2.DBContext.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\bin\Debug\net6.0\Project2.DBContext.pdb
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\bin\Debug\net6.0\project2.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\bin\Debug\net6.0\project2.pdb
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.csproj.CopyComplete
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\refint\Project2.DBContext.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.pdb
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\Project2.DBContext.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.DBContext\obj\Debug\net6.0\ref\Project2.DBContext.dll

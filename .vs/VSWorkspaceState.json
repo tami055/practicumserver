@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\project2",
+    "\\Project2.db",
+    "\\Project2.DBContext",
+    "\\Project2.db\\Migrations",
+    "\\Project2.Services",
+    "\\project2\\Entities",
+    "\\WebApi"
+  ],
+  "SelectedNode": "\\WebApi\\WebApi.csproj",
+  "PreviewInSolutionExplorer": false
+}

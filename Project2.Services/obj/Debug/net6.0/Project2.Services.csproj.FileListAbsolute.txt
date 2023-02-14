@@ -1,0 +1,147 @@
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.deps.json
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\Project2.DBContext.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\project2.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.pdb
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\Project2.DBContext.pdb
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\project2.pdb
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CopyComplete
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\refint\Project2.Services.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\ref\Project2.Services.dll
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\דוטנט\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.genruntimeconfig.cache
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.AssemblyReference.cache
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfoInputs.cache
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfo.cs
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CoreCompileInputs.cache
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.dll
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\refint\Project2.Services.dll
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.pdb
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.deps.json
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.runtimeconfig.json
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.dll
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.pdb
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.dll
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\Project2.db.dll
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\project2.dll
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.pdb
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\Project2.db.pdb
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\bin\Debug\net6.0\project2.pdb
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CopyComplete
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.genruntimeconfig.cache
+Y:\Groups\3\קרסניצקי תמר\project2\Project2.Services\obj\Debug\net6.0\ref\Project2.Services.dll
+D:\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.deps.json
+D:\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.runtimeconfig.json
+D:\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.dll
+D:\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.pdb
+D:\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.dll
+D:\project2\Project2.Services\bin\Debug\net6.0\Project2.db.dll
+D:\project2\Project2.Services\bin\Debug\net6.0\project2.dll
+D:\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.pdb
+D:\project2\Project2.Services\bin\Debug\net6.0\Project2.db.pdb
+D:\project2\Project2.Services\bin\Debug\net6.0\project2.pdb
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.AssemblyReference.cache
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfoInputs.cache
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfo.cs
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CoreCompileInputs.cache
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CopyComplete
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.dll
+D:\project2\Project2.Services\obj\Debug\net6.0\refint\Project2.Services.dll
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.pdb
+D:\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.genruntimeconfig.cache
+D:\project2\Project2.Services\obj\Debug\net6.0\ref\Project2.Services.dll
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.deps.json
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.runtimeconfig.json
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.dll
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\Project2.db.dll
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\project2.dll
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.pdb
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\Project2.db.pdb
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\bin\Debug\net6.0\project2.pdb
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfo.cs
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CopyComplete
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\refint\Project2.Services.dll
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.genruntimeconfig.cache
+C:\Users\User\Documents\שרת סופייייייייייייי\project2\Project2.Services\obj\Debug\net6.0\ref\Project2.Services.dll
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.deps.json
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.runtimeconfig.json
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.dll
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\Project2.db.dll
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\project2.dll
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.pdb
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\Project2.db.pdb
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\bin\Debug\net6.0\project2.pdb
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfo.cs
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CopyComplete
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\refint\Project2.Services.dll
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.genruntimeconfig.cache
+C:\Users\User\Documents\שרת ניסוי\project2\Project2.Services\obj\Debug\net6.0\ref\Project2.Services.dll
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.deps.json
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.runtimeconfig.json
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.dll
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.db.dll
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\project2.dll
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.pdb
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.db.pdb
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\project2.pdb
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfo.cs
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CopyComplete
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\refint\Project2.Services.dll
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.genruntimeconfig.cache
+C:\Users\User\Documents\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\ref\Project2.Services.dll
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.deps.json
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.runtimeconfig.json
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.dll
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.db.dll
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\project2.dll
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.Common.pdb
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\Project2.db.pdb
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\bin\Debug\net6.0\project2.pdb
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.AssemblyReference.cache
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.AssemblyInfo.cs
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.csproj.CopyComplete
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.dll
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\refint\Project2.Services.dll
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.pdb
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\Project2.Services.genruntimeconfig.cache
+C:\Users\User\Documents\פרקטיקום סופייייייייייי\שרת מצויןן\project2\Project2.Services\obj\Debug\net6.0\ref\Project2.Services.dll
